@@ -1,0 +1,6 @@
+# Lines starting with '#' are comments.
+# Each line specifies the code owners for a specific file or directory.
+# Use a glob pattern (*) to match multiple files or directories.
+
+# Assigning an individual user as a code owner
+* @jax-code-hub
